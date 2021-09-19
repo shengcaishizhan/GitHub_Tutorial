@@ -1,5 +1,5 @@
-# github_tutorial
-> 跟我一起从 0 到 1 学习 github，**欢迎关注微信公众号：老沈靠谱**
+# GitHub Tutorial
+> **欢迎关注公众号：老沈靠谱**
 
 ## 目录
 
